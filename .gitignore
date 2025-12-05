@@ -1,9 +1,20 @@
 # Cursor
-
 .plan.md
+
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
 
 # Environment variables
 .env
 
 # Data output directory
 data/
+
+# Spotify token cache (created by Spotipy)
+.cache*
