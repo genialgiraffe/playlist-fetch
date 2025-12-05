@@ -18,3 +18,6 @@ data/
 
 # Spotify token cache (created by Spotipy)
 .cache*
+
+# Test output files
+test_playlist_*.json
